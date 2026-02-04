@@ -43,6 +43,7 @@ Computer science Student at MS ramaiah institute of technology</br>
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" title="Notion"/>
 
 </p>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mohitk-patwari&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=mohitk-patwari&theme=blue-green&hide_border=false)<br/>
