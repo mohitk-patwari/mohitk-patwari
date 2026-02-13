@@ -1,10 +1,10 @@
-Hi, I'm Mohit ✨
+# ⌘ Hi, I'm Mohit Kumar Patwari 
 
 Computer science Student at MS ramaiah institute of technology</br>
 
 
+Here, you’ll find a showcase of some of my projects, each reflecting my commitment to continuous learning.
 
- 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohit-kumar-patwari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohitkpatwari2005@gmail.com) 
 
